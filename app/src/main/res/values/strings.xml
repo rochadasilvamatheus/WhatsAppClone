@@ -1,7 +1,16 @@
 <resources>
     <string name="app_name">WhatsApp</string>
-    <string name="main_login">Digite seu e-mail</string>
-    <string name="main_password">Digite sua senha</string>
+    <string name="digita_email">Digite seu e-mail</string>
+    <string name="digita_senha">Digite sua senha</string>
     <string name="botao_login">Logar</string>
     <string name="main_cadastrar">Não tem conta? Cadastre-se</string>
+    <string name="botao_cadastro">Cadastrar</string>
+    <string name="digita_nome">Digite seu nome</string>
+    <string name="menu_pesquisa">Pesquisar</string>
+    <string name="menu_configuracoes">Configurações</string>
+    <string name="menu_sair">Sair</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Conversas</string>
+    <string name="configuracao_texto">Esse não é o seu nome de usuário nem sua senha. Esse nome ficará visivel para seusa contatos do WhatsApp</string>
 </resources>
